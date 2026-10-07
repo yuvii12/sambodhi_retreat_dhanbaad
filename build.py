@@ -302,7 +302,7 @@ def cta_band(img, line1, line2):
   <div class="cta-band__bg"><img src="{img}" alt="" aria-hidden="true" loading="lazy" decoding="async"></div>
   <div class="cta-band__in">
     <p class="outline" data-reveal="up"><b>{line1}</b><b><em>{line2}</em></b></p>
-    <p class="lede" style="color:rgba(255,255,255,.86);margin:1.6rem auto 0;max-width:44ch;" data-reveal="up" data-reveal-delay="110">Rooms from &#8377;3,000 per night. Discover Sambodhi Retreat.</p>
+    <p class="lede" style="color:rgba(255,255,255,.86);margin:1.6rem auto 0;max-width:44ch;" data-reveal="up" data-reveal-delay="110">Rooms from &#8377;2,499 per night. Discover Sambodhi Retreat.</p>
     <div class="btn-row btn-row--center" data-reveal="up" data-reveal-delay="200">
       <a class="btn btn--gold" href="{BOOK}" target="_blank" rel="noopener">book your stay {ARROW}</a>
       <a class="btn btn--light" href="contact.html">make an enquiry</a>
@@ -1422,7 +1422,7 @@ def contact_body():
         <li><span class="k">concierge</span><span class="v"><a href="tel:+917488535210">+91 74885 35210</a></span></li>
         <li><span class="k">email</span><span class="v"><a href="mailto:info@sambodhiretreat.com">info@sambodhiretreat.com</a></span></li>
         <li><span class="k">address</span><span class="v">Hathiyar, Bodhgaya, Gaya, Bihar &mdash; 824231, India</span></li>
-        <li><span class="k">rates from</span><span class="v">&#8377;3,000 per night</span></li>
+        <li><span class="k">rates from</span><span class="v">&#8377;2,499 per night</span></li>
       </ul>
       <div class="btn-row"><a class="btn" href="{BOOK}" target="_blank" rel="noopener">check availability {ARROW}</a></div>
     </div>
